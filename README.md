@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**celalcelikkaya/celalcelikkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="profile-card.svg" alt="Celal Çelikkaya - profile card" width="100%">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Portfolio](https://celalcelikkaya.github.io/)**  ·  **[Instagram](https://www.instagram.com/celal_celikkaya_/)**
+
+</div>
+
+## What I've built
+
+| Project | What it is |
+| --- | --- |
+| **[Delete & Edit Element](https://chromewebstore.google.com/detail/delete-edit-element/ocikgjijppfibagbecmeecchbgkjljpc)** | Chrome extension: click anything on a page to remove or edit it, undo any time. |
+| **[SSH Quick Commands](https://chromewebstore.google.com/detail/ssh-quick-commands/hjfnapcnlkpcamkmkolnaphmbfemfpjh)** | Chrome extension: your terminal commands one click away, copied straight to the clipboard. |
+| **[All Wallet](https://chromewebstore.google.com/detail/all-wallet/ljnjpagnmhjionebkgmjlkpocooimokj)** | Chrome extension: a crypto wallet and bank address book with an optional password lock. |
+| **Win Solar** | Windows desktop app: automatically switches between light and dark themes based on local sunrise and sunset. No public link yet. |
+| **[Papa Radio](https://www.paparadio.online)** | A radio web app that brings stations together in one place. |
+| **[Bowler Beverage](https://www.bowlerbeverage.com)** | Business website for a Malawi beverage company. |
+
+<p align="center"><img src="win-solar-night.png" alt="Win Solar in night mode" width="320"></p>
+
+<sub>Everything above lives on my [portfolio](https://celalcelikkaya.github.io/).</sub>
