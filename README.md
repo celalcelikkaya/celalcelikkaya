@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile Banner</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    body {
-      background-color: #080b11;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-    }
-  </style>
-</head>
-<body class="min-h-screen flex flex-col items-center justify-center p-4">
-
-  <div class="w-full max-w-[940px] bg-[#0b0f17] p-6 rounded-2xl border border-gray-800 shadow-2xl flex flex-col items-center">
-    <div class="w-full flex justify-between items-center mb-4 px-2 text-gray-400 text-sm">
-      <span class="font-semibold text-gray-200">SVG Ön İzleme</span>
-      <span class="text-xs bg-gray-800 px-2.5 py-1 rounded-md border border-gray-700 text-gray-300">920x350 px</span>
-    </div>
-
     <!-- SVG Container -->
     <div class="w-full overflow-x-auto flex justify-center">
       <svg xmlns="http://www.w3.org/2000/svg" width="920" height="350" viewBox="0 0 920 350" class="max-w-full h-auto">
@@ -110,10 +88,7 @@
         <line x1="532" x2="740" y1="243" y2="243" stroke="rgb(38, 50, 74)" stroke-width="1" stroke-dasharray="1, 5"/>
       </svg>
     </div>
-  </div>
 
-</body>
-</html>
 
 </div>
 
